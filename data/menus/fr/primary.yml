@@ -43,4 +43,11 @@ items:
   children: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
+- title: Bibliographie BD
+  target: "/bibliographie-bd/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/bibliographie-bd"
+  file: content/fr/pages/bibliographie-bd/_index.html
 
