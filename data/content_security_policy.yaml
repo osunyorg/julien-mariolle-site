@@ -5,3 +5,8 @@ allowed_domains:
   - "*.osuny.org"
   - "osuny.s3.fr-par.scw.cloud"
   - "tile.openstreetmap.org"
+  - "dailymotion.com"
+  - "www.dailymotion.com"
+  - "geo.dailymotion.com"
+  - "dai.ly"
+  - "*.dmcdn.net"
