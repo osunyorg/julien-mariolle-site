@@ -9,10 +9,10 @@ items:
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Bibliographie BD
-  target: "/bibliographie-bd/"
+  target: "/bande-dessinee/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/bibliographie-bd"
-  file: content/fr/pages/bibliographie-bd/_index.html
+  path: "/pages/bande-dessinee"
+  file: content/fr/pages/bande-dessinee/_index.html
 
