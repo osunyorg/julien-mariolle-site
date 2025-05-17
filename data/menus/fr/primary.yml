@@ -15,4 +15,39 @@ items:
   children: []
   path: "/pages/bande-dessinee"
   file: content/fr/pages/bande-dessinee/_index.html
+- title: Bande Dessinée
+  target: "/bande-dessinee/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/bande-dessinee"
+  file: content/fr/pages/bande-dessinee/_index.html
+- title: Illustration & dessin de presse
+  target: "/illustration/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/illustration"
+  file: content/fr/pages/illustration/_index.html
+- title: Carnet(s) de croquis
+  target: "/carnets-de-croquis/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/carnets-de-croquis"
+  file: content/fr/pages/carnets-de-croquis/_index.html
+- title: Expos / animations / performances
+  target: "/ateliers-animations-performances/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/ateliers-animations-performances"
+  file: content/fr/pages/ateliers-animations-performances/_index.html
+- title: Ateliers BD
+  target: "/ateliers-bd/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/ateliers-bd"
+  file: content/fr/pages/ateliers-bd/_index.html
 
