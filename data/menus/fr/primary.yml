@@ -36,7 +36,7 @@ items:
   children: []
   path: "/pages/ateliers-animations-performances"
   file: content/fr/pages/ateliers-animations-performances/_index.html
-- title: Sérigraphie / gravure
+- title: Sérigraphie / gravure / print
   target: "/serigraphie-gravure/"
   kind: page
   new_tab: false
