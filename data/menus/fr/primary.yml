@@ -36,13 +36,6 @@ items:
   children: []
   path: "/pages/ateliers-animations-performances"
   file: content/fr/pages/ateliers-animations-performances/_index.html
-- title: Ateliers BD
-  target: "/ateliers-bd/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/ateliers-bd"
-  file: content/fr/pages/ateliers-bd/_index.html
 - title: Sérigraphie / gravure
   target: https://site.julien-mariolle.osuny.site/serigraphie-gravure/
   kind: url
