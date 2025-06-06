@@ -15,7 +15,7 @@ items:
   children: []
   path: "/pages/bande-dessinee"
   file: content/fr/pages/bande-dessinee/_index.html
-- title: Illustration & dessin de presse
+- title: Illustration
   target: "/illustration/"
   kind: page
   new_tab: false
