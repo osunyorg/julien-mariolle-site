@@ -29,14 +29,14 @@ items:
   children: []
   path: "/pages/carnets-de-croquis"
   file: content/fr/pages/carnets-de-croquis/_index.html
-- title: Expos / animations / performances
+- title: Ateliers BD / animations
   target: "/ateliers-animations-performances/"
   kind: page
   new_tab: false
   children: []
   path: "/pages/ateliers-animations-performances"
   file: content/fr/pages/ateliers-animations-performances/_index.html
-- title: Sérigraphie / gravure / print
+- title: Sérigraphie / estampe
   target: "/serigraphie-gravure/"
   kind: page
   new_tab: false
