@@ -2,45 +2,57 @@
 title: Menu principal
 items:
 - title: Actualités
+  slug: actualites
   target: "/actualites/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Bande Dessinée
+  slug: bande-dessinee
   target: "/bande-dessinee/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/bande-dessinee"
   file: content/fr/pages/bande-dessinee/_index.html
 - title: Illustration
+  slug: illustration
   target: "/illustration/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/illustration"
   file: content/fr/pages/illustration/_index.html
 - title: Carnet(s) de croquis
+  slug: carnet-s-de-croquis
   target: "/carnets-de-croquis/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/carnets-de-croquis"
   file: content/fr/pages/carnets-de-croquis/_index.html
 - title: Ateliers BD / animations
+  slug: ateliers-bd-animations
   target: "/ateliers-animations-performances/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/ateliers-animations-performances"
   file: content/fr/pages/ateliers-animations-performances/_index.html
 - title: Sérigraphie / estampe
+  slug: serigraphie-estampe
   target: "/serigraphie-gravure/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/serigraphie-gravure"
   file: content/fr/pages/serigraphie-gravure/_index.html
 
