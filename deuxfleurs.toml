@@ -19,6 +19,10 @@ from = "/bibliographie-bd/index.html"
 to = "/bande-dessinee/"
 
 [[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/eac-bd-serigraphiepdf/"
+
+[[redirects]]
 from = "/equipe-editoriale/index.html"
 to = "/equipe/equipe-editoriale/"
 
